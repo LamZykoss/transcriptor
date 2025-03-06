@@ -3,4 +3,6 @@ Programa en consola, creado en python con el fin de transcribir lo que le hablas
 
 Requiere una api key de esta web: https://groq.com/
 
-![Captura de pantalla 2025-03-06 000146](https://github.com/user-attachments/assets/6d930a62-9238-4045-8b5c-0f363e89435f)
+- Ejemplo de como funciona:
+
+![Captura de pantalla 2025-03-06 000241](https://github.com/user-attachments/assets/8f6a719a-8dc1-477e-9a12-9365e9e178f7)
